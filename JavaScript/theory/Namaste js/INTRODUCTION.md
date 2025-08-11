@@ -49,4 +49,4 @@ It has **two main components**:
 - JavaScript executes code **line-by-line** and in **order**.
 - It will **not move to the next line** until the current one finishes.
 
-![alt text](./images/image-1.pngS)
+![alt text](./images/image-1.png)

@@ -47,3 +47,17 @@ In the above image:
   - **Data hiding / encapsulation**
   - **Function factories**
   - **Callbacks and asynchronous code**
+  - **Currying**
+  - **Function Like Once**
+  - **Memoize**
+  - **Maintaining State in Async World**
+  - **Set Timeouts**
+  - **Iterators**
+  
+
+
+
+  ----
+  ![alt text](./images/Closure1.png)
+  ![alt text](./images/Closure2.png)
+  ![alt text](./images/Closure3.png)

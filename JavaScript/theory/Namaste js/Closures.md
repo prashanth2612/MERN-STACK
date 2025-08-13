@@ -32,7 +32,7 @@ In this example:
 
 ## 📷 Visual Representation
 
-![alt text](image.png)
+![alt text](./images/image9.png)
 
 In the above image:
 - `y()` is enclosed inside `x()`

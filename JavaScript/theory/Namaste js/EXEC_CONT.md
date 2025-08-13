@@ -1,6 +1,6 @@
 # ⚙️ Working of Execution Context
 
-![Execution Context Overview](.\images\image-2.png)
+![Execution Context Overview](./images/image-2.png)
 
 ---
 
@@ -8,7 +8,7 @@
 
 During the creation phase, the JavaScript engine sets up the execution context:
 
-![Creation Phase](.\images\image-3.png)
+![Creation Phase](./images/image-3.png)
 
 - A **global object** is created (`window` in browsers, `global` in Node.js).
 - A special variable `this` is initialized.
@@ -22,7 +22,7 @@ During the creation phase, the JavaScript engine sets up the execution context:
 
 In this phase:
 
-![Memory Allocation](.\images\image-4.png)
+![Memory Allocation](./images/image-4.png)
 
 - Every variable is stored in memory and initialized with `undefined`.
 - Functions are stored **along with their full definition/code** (not just `undefined`).
@@ -30,7 +30,7 @@ In this phase:
 
 ## 🚀 3. Code Execution phase
 
-![alt text](.\images\image-5.png)
+![alt text](./images/image-5.png)
 
 ## Call Stack in js
 

@@ -1,16 +1,10 @@
-function z(){
+let count = 0;
+document.getElementById("clickMe")
+    .addEventListener("click", function xyz() {
 
-    var b = 900;
-    function x(){
+        console.log("Button Clicked",++count);
 
-    var a =7;
+    });
 
-    function y(){
-        console.log(a,b);     
-    }
-    a=100;
-    return y;
-}
 
-}
-
+    

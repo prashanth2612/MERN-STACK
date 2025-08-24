@@ -13,6 +13,8 @@ Welcome! Check the box when you've completed reading a topic.
 - [ ] [Let & Const](./let_Const.md)
 - [ ] [Block Scope](./blockScope.md)
 - [ ] [Closures](./Closures.md)
+- [ ] [Closures_Interview](./ClosureInterview.md)
+- [ ] [First Class Functions](./AnonymousFunc.md)
 
 ---
 
